@@ -36,7 +36,7 @@ A 17-year-old developer specializing in application building, web design, and ga
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="David's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidswep&show_icons=true&theme=radical" alt="David's Stats" />
 </p>
 
 *Thank you for visiting my profile!*
